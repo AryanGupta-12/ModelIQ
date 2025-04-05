@@ -233,7 +233,7 @@ const Services: React.FC = () => {
           <ServiceCard variants={cardVariants}>
             <ServiceImageContainer>
               <ServiceImage
-                src="https://images.unsplash.com/photo-1583744946564-b52d01a7e257?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGZhc2hpb24lMjB0ZWNofGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"
+                src="https://images.unsplash.com/photo-1704926273322-86addc31fbf2?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="AI Model Try-On"
                 className="service-image"
               />
@@ -272,7 +272,7 @@ const Services: React.FC = () => {
           <ServiceCard variants={cardVariants}>
             <ServiceImageContainer>
               <ServiceImage
-                src="https://images.unsplash.com/photo-1552664688-cf412ec27db2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGZhc2hpb24lMjB0ZWNofGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60"
+                src="https://images.unsplash.com/photo-1731444654622-3c83043ea285?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="3D Garment Visualization"
                 className="service-image"
               />
