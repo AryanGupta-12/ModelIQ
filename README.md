@@ -64,7 +64,6 @@ src/
 For more information about ModelIQ, please reach out to:
 
 - Email: modeliq004@gmail.com
-- Phone: +1 (555) 123-4567
 
 ## License
 
