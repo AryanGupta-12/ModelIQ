@@ -186,7 +186,7 @@ const Footer: React.FC = () => {
         >
           <FooterTitle>Contact Us</FooterTitle>
           <FooterText>
-            Email: info@modeliq.com
+            Email: modeliq004@gmail.com
             <br />
           </FooterText>
         </FooterSection>
